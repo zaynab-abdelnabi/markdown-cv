@@ -1,7 +1,7 @@
 # Zaynab Abd El Nabi
 
+![](zaynab.abdelnabi.png)
 ```
-![] (./zaynab.abdelnabi.png)
 Al Baddawi Mountain, Tripoli Lebanon
 zaynab.abdelnabi@gmail.com
 My GitHub account
